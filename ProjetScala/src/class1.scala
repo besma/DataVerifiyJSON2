@@ -8,6 +8,7 @@ object class1 {
       var x: Int =14;
      // it is the first class of the project  
       var y: Double = 2.0;
-      var z =12;
+      //from user2
+      var z =13;
   }
-}
+}3
