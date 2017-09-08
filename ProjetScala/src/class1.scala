@@ -11,6 +11,6 @@ object class1 {
       //from user2
       var z =13;
       //user1 comment
-      var z =11+1;
+      var s =11+1;
   }
-}3
+}
