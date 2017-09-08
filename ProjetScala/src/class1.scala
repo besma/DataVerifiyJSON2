@@ -10,5 +10,7 @@ object class1 {
       var y: Double = 2.0;
       //from user2
       var z =13;
+      //user1 comment
+      var z =11+1;
   }
 }3
